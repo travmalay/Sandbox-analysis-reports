@@ -1,0 +1,147 @@
+2023-05-08 09:07:44,918 [root] INFO: Date set to: 20230517T09:10:24, timeout set to: 200
+2023-05-17 09:10:24,359 [root] DEBUG: Starting analyzer from: C:\tmpq8s1d_36
+2023-05-17 09:10:24,375 [root] DEBUG: Storing results at: C:\rIXSUAqqnL
+2023-05-17 09:10:24,375 [root] DEBUG: Pipe server name: \\.\PIPE\awwTLW
+2023-05-17 09:10:24,390 [root] DEBUG: Python path: C:\Users\cape\AppData\Local\Programs\Python\Python38-32
+2023-05-17 09:10:24,390 [root] INFO: Analysis package "exe" has been specified
+2023-05-17 09:10:24,406 [root] DEBUG: Importing analysis package "exe"...
+2023-05-17 09:10:24,515 [root] DEBUG: Initializing analysis package "exe"...
+2023-05-17 09:10:24,515 [root] DEBUG: New location of moved file: C:\Users\cape\AppData\Local\Temp\ram.exe
+2023-05-17 09:10:24,531 [root] INFO: Analyzer: Package modules.packages.exe does not specify a DLL option
+2023-05-17 09:10:24,531 [root] INFO: Analyzer: Package modules.packages.exe does not specify a DLL_64 option
+2023-05-17 09:10:24,531 [root] INFO: Analyzer: Package modules.packages.exe does not specify a loader option
+2023-05-17 09:10:24,531 [root] INFO: Analyzer: Package modules.packages.exe does not specify a loader_64 option
+2023-05-17 09:10:25,843 [root] DEBUG: Importing auxiliary module "modules.auxiliary.browser"...
+2023-05-17 09:10:25,859 [root] DEBUG: Importing auxiliary module "modules.auxiliary.curtain"...
+2023-05-17 09:10:25,953 [root] DEBUG: Importing auxiliary module "modules.auxiliary.digisig"...
+2023-05-17 09:10:26,109 [root] DEBUG: Importing auxiliary module "modules.auxiliary.disguise"...
+2023-05-17 09:10:26,203 [root] DEBUG: Importing auxiliary module "modules.auxiliary.during_script"...
+2023-05-17 09:10:26,218 [root] DEBUG: Importing auxiliary module "modules.auxiliary.evtx"...
+2023-05-17 09:10:26,234 [root] DEBUG: Importing auxiliary module "modules.auxiliary.filepickup"...
+2023-05-17 09:10:26,234 [root] DEBUG: Importing auxiliary module "modules.auxiliary.human"...
+2023-05-17 09:10:26,296 [root] DEBUG: Importing auxiliary module "modules.auxiliary.permissions"...
+2023-05-17 09:10:26,406 [root] DEBUG: Importing auxiliary module "modules.auxiliary.pre_script"...
+2023-05-17 09:10:26,406 [root] DEBUG: Importing auxiliary module "modules.auxiliary.procmon"...
+2023-05-17 09:10:26,421 [root] DEBUG: Importing auxiliary module "modules.auxiliary.screenshots"...
+2023-05-17 09:10:26,421 [lib.api.screenshot] DEBUG: Importing 'PIL.ImageChops'
+2023-05-17 09:10:26,687 [lib.api.screenshot] DEBUG: Importing 'PIL.ImageGrab'
+2023-05-17 09:10:26,718 [lib.api.screenshot] DEBUG: Importing 'PIL.ImageDraw'
+2023-05-17 09:10:26,734 [root] DEBUG: Importing auxiliary module "modules.auxiliary.sysmon"...
+2023-05-17 09:10:26,750 [root] DEBUG: Importing auxiliary module "modules.auxiliary.tlsdump"...
+2023-05-17 09:10:26,765 [root] DEBUG: Importing auxiliary module "modules.auxiliary.usage"...
+2023-05-17 09:10:26,781 [root] DEBUG: Initialized auxiliary module "Browser"
+2023-05-17 09:10:26,781 [root] DEBUG: Trying to start auxiliary module "Browser"...
+2023-05-17 09:10:26,781 [root] DEBUG: Started auxiliary module "Browser"
+2023-05-17 09:10:26,781 [root] DEBUG: Started auxiliary module Browser
+2023-05-17 09:10:26,781 [root] DEBUG: Initialized auxiliary module "Curtain"
+2023-05-17 09:10:26,781 [root] DEBUG: Trying to start auxiliary module "Curtain"...
+2023-05-17 09:10:26,796 [root] DEBUG: Started auxiliary module "Curtain"
+2023-05-17 09:10:26,796 [root] DEBUG: Started auxiliary module Curtain
+2023-05-17 09:10:26,796 [root] DEBUG: Initialized auxiliary module "DigiSig"
+2023-05-17 09:10:26,812 [root] DEBUG: Trying to start auxiliary module "DigiSig"...
+2023-05-17 09:10:26,812 [modules.auxiliary.digisig] DEBUG: Checking for a digital signature
+2023-05-17 09:10:27,687 [modules.auxiliary.digisig] DEBUG: File is not signed
+2023-05-17 09:10:27,703 [modules.auxiliary.digisig] INFO: Uploading signature results to aux/DigiSig.json
+2023-05-17 09:10:27,718 [root] DEBUG: Started auxiliary module "DigiSig"
+2023-05-17 09:10:27,718 [root] DEBUG: Started auxiliary module DigiSig
+2023-05-17 09:10:27,718 [root] DEBUG: Initialized auxiliary module "Disguise"
+2023-05-17 09:10:27,718 [root] DEBUG: Trying to start auxiliary module "Disguise"...
+2023-05-17 09:10:27,718 [modules.auxiliary.disguise] INFO: Disguising GUID to 8b577631-f811-4bfd-a355-6e743bb47659
+2023-05-17 09:10:27,734 [root] DEBUG: Started auxiliary module "Disguise"
+2023-05-17 09:10:27,750 [root] DEBUG: Started auxiliary module Disguise
+2023-05-17 09:10:27,796 [root] DEBUG: Initialized auxiliary module "Evtx"
+2023-05-17 09:10:27,812 [root] DEBUG: Trying to start auxiliary module "Evtx"...
+2023-05-17 09:10:27,812 [root] DEBUG: Started auxiliary module "Evtx"
+2023-05-17 09:10:27,812 [root] DEBUG: Started auxiliary module Evtx
+2023-05-17 09:10:27,812 [root] DEBUG: Initialized auxiliary module "FilePickup"
+2023-05-17 09:10:27,812 [root] DEBUG: Trying to start auxiliary module "FilePickup"...
+2023-05-17 09:10:27,812 [root] DEBUG: Started auxiliary module "FilePickup"
+2023-05-17 09:10:27,812 [root] DEBUG: Started auxiliary module FilePickup
+2023-05-17 09:10:27,812 [root] DEBUG: Initialized auxiliary module "Human"
+2023-05-17 09:10:27,812 [root] DEBUG: Trying to start auxiliary module "Human"...
+2023-05-17 09:10:27,828 [root] DEBUG: Started auxiliary module "Human"
+2023-05-17 09:10:27,828 [root] DEBUG: Started auxiliary module Human
+2023-05-17 09:10:27,890 [root] DEBUG: Initialized auxiliary module "Permissions"
+2023-05-17 09:10:27,968 [root] DEBUG: Trying to start auxiliary module "Permissions"...
+2023-05-17 09:10:28,078 [root] DEBUG: Started auxiliary module "Permissions"
+2023-05-17 09:10:28,078 [root] DEBUG: Started auxiliary module Permissions
+2023-05-17 09:10:28,093 [root] DEBUG: Initialized auxiliary module "Pre_script"
+2023-05-17 09:10:28,093 [root] DEBUG: Trying to start auxiliary module "Pre_script"...
+2023-05-17 09:10:28,093 [root] DEBUG: Started auxiliary module "Pre_script"
+2023-05-17 09:10:28,109 [root] DEBUG: Started auxiliary module Pre_script
+2023-05-17 09:10:28,109 [root] DEBUG: Initialized auxiliary module "Procmon"
+2023-05-17 09:10:28,109 [root] DEBUG: Trying to start auxiliary module "Procmon"...
+2023-05-17 09:10:28,109 [root] DEBUG: Started auxiliary module "Procmon"
+2023-05-17 09:10:28,109 [root] DEBUG: Started auxiliary module Procmon
+2023-05-17 09:10:28,109 [root] DEBUG: Initialized auxiliary module "Screenshots"
+2023-05-17 09:10:28,109 [root] DEBUG: Trying to start auxiliary module "Screenshots"...
+2023-05-17 09:10:28,125 [root] DEBUG: Started auxiliary module "Screenshots"
+2023-05-17 09:10:28,125 [root] DEBUG: Started auxiliary module Screenshots
+2023-05-17 09:10:28,125 [root] DEBUG: Initialized auxiliary module "Sysmon"
+2023-05-17 09:10:28,125 [root] DEBUG: Trying to start auxiliary module "Sysmon"...
+2023-05-17 09:10:28,125 [root] DEBUG: Started auxiliary module "Sysmon"
+2023-05-17 09:10:28,125 [root] DEBUG: Started auxiliary module Sysmon
+2023-05-17 09:10:28,125 [root] DEBUG: Initialized auxiliary module "TLSDumpMasterSecrets"
+2023-05-17 09:10:28,140 [root] DEBUG: Trying to start auxiliary module "TLSDumpMasterSecrets"...
+2023-05-17 09:10:28,140 [modules.auxiliary.tlsdump] INFO: lsass.exe found, pid 480
+2023-05-17 09:10:28,140 [lib.api.process] INFO: Monitor config for process 480: C:\tmpq8s1d_36\dll\480.ini
+2023-05-17 09:10:31,203 [lib.api.process] INFO: Option 'tlsdump' with value '1' sent to monitor
+2023-05-17 09:10:31,234 [lib.api.process] INFO: 32-bit DLL to inject is C:\tmpq8s1d_36\dll\DgpMPvG.dll, loader C:\tmpq8s1d_36\bin\KOKGQUO.exe
+2023-05-17 09:10:31,296 [root] DEBUG: Loader: Injecting process 480 with C:\tmpq8s1d_36\dll\DgpMPvG.dll.
+2023-05-17 09:10:31,421 [root] DEBUG: Python path set to 'C:\Users\cape\AppData\Local\Programs\Python\Python38-32'.
+2023-05-17 09:10:31,546 [root] DEBUG: TLS secret dump mode enabled.
+2023-05-17 09:10:31,593 [root] INFO: Disabling sleep skipping.
+2023-05-17 09:10:31,625 [root] DEBUG: Monitor initialised: 32-bit capemon loaded in process 480 at 0x6b900000, thread 3960, image base 0xf20000, stack from 0x14f7000-0x1500000
+2023-05-17 09:10:31,671 [root] DEBUG: Commandline: C:\Windows\system32\lsass.exe
+2023-05-17 09:10:31,687 [root] DEBUG: InjectDllViaThread: Successfully injected Dll into process via RtlCreateUserThread.
+2023-05-17 09:10:31,687 [root] DEBUG: Successfully injected DLL C:\tmpq8s1d_36\dll\DgpMPvG.dll.
+2023-05-17 09:10:31,687 [lib.api.process] INFO: Injected into suspended 32-bit process with pid 480
+2023-05-17 09:10:31,687 [root] DEBUG: Started auxiliary module "TLSDumpMasterSecrets"
+2023-05-17 09:10:31,687 [root] DEBUG: Started auxiliary module TLSDumpMasterSecrets
+2023-05-17 09:10:31,718 [root] DEBUG: Initialized auxiliary module "Usage"
+2023-05-17 09:10:31,718 [root] DEBUG: Trying to start auxiliary module "Usage"...
+2023-05-17 09:10:31,718 [root] DEBUG: Started auxiliary module "Usage"
+2023-05-17 09:10:31,718 [root] DEBUG: Started auxiliary module Usage
+2023-05-17 09:10:31,718 [root] DEBUG: Initialized auxiliary module "During_script"
+2023-05-17 09:10:31,718 [root] DEBUG: Trying to start auxiliary module "During_script"...
+2023-05-17 09:10:31,734 [root] DEBUG: Started auxiliary module "During_script"
+2023-05-17 09:10:31,750 [root] DEBUG: Started auxiliary module During_script
+2023-05-17 09:10:32,109 [root] DEBUG: DLL loaded at 0x6DDA0000: C:\Windows\system32\certpoleng (0x13000 bytes).
+2023-05-17 09:10:32,125 [root] DEBUG: DLL loaded at 0x73BD0000: C:\Windows\system32\wkscli (0xf000 bytes).
+2023-05-17 09:10:39,953 [root] INFO: Restarting WMI Service
+2023-05-17 02:10:46,279 [lib.core.compound] INFO: C:\Users\cape\AppData\Local\Temp already exists, skipping creation
+2023-05-17 02:10:46,295 [lib.api.process] INFO: Successfully executed process from path "C:\Users\cape\AppData\Local\Temp\ram.exe" with arguments "" with pid 2892
+2023-05-17 02:10:46,311 [lib.api.process] INFO: Monitor config for process 2892: C:\tmpq8s1d_36\dll\2892.ini
+2023-05-17 02:10:46,342 [lib.api.process] INFO: 32-bit DLL to inject is C:\tmpq8s1d_36\dll\DgpMPvG.dll, loader C:\tmpq8s1d_36\bin\KOKGQUO.exe
+2023-05-17 02:10:46,373 [root] DEBUG: Loader: Injecting process 2892 (thread 2848) with C:\tmpq8s1d_36\dll\DgpMPvG.dll.
+2023-05-17 02:10:46,389 [root] DEBUG: InjectDllViaIAT: Successfully patched IAT.
+2023-05-17 02:10:46,389 [root] DEBUG: Successfully injected DLL C:\tmpq8s1d_36\dll\DgpMPvG.dll.
+2023-05-17 02:10:46,389 [lib.api.process] INFO: Injected into suspended 32-bit process with pid 2892
+2023-05-17 02:10:48,404 [lib.api.process] INFO: Successfully resumed process with pid 2892
+2023-05-17 02:11:08,185 [root] DEBUG: DLL loaded at 0x70D60000: C:\Windows\system32\dssenh (0x27000 bytes).
+2023-05-17 02:11:08,232 [root] DEBUG: DLL loaded at 0x74A80000: C:\Windows\system32\GPAPI (0x16000 bytes).
+2023-05-17 02:11:08,576 [root] DEBUG: TLS 1.2 secrets logged to: C:\rIXSUAqqnL\tlsdump\tlsdump.log
+2023-05-17 02:14:09,279 [root] INFO: Analysis timeout hit, terminating analysis
+2023-05-17 02:14:09,326 [lib.api.process] ERROR: Failed to open terminate event for pid 2892
+2023-05-17 02:14:09,326 [root] INFO: Terminate event set for process 2892
+2023-05-17 02:14:09,326 [root] INFO: Created shutdown mutex
+2023-05-17 02:14:10,389 [root] INFO: Shutting down package
+2023-05-17 02:14:10,404 [root] INFO: Stopping auxiliary modules
+2023-05-17 02:14:10,404 [root] INFO: Stopping auxiliary module: Browser
+2023-05-17 02:14:10,404 [root] INFO: Stopping auxiliary module: Curtain
+2023-05-17 02:14:10,811 [lib.common.results] INFO: Uploading file C:\curtain.log to curtain/1684314850.811.curtain.log; Size is 36; Max size: 100000000
+2023-05-17 02:14:10,936 [root] INFO: Stopping auxiliary module: Evtx
+2023-05-17 02:14:10,936 [root] INFO: Stopping auxiliary module: FilePickup
+2023-05-17 02:14:10,951 [root] INFO: Stopping auxiliary module: Human
+2023-05-17 02:14:10,967 [root] INFO: Stopping auxiliary module: Pre_script
+2023-05-17 02:14:10,967 [root] INFO: Stopping auxiliary module: Procmon
+2023-05-17 02:14:10,967 [root] INFO: Stopping auxiliary module: Screenshots
+2023-05-17 02:14:10,982 [root] INFO: Stopping auxiliary module: Sysmon
+2023-05-17 02:14:11,014 [root] INFO: Stopping auxiliary module: Usage
+2023-05-17 02:14:11,029 [root] INFO: Stopping auxiliary module: During_script
+2023-05-17 02:14:11,029 [root] INFO: Finishing auxiliary modules
+2023-05-17 02:14:11,029 [root] INFO: Shutting down pipe server and dumping dropped files
+2023-05-17 02:14:11,045 [root] WARNING: Folder at path "C:\rIXSUAqqnL\debugger" does not exist, skipping
+2023-05-17 02:14:11,060 [root] INFO: Uploading files at path "C:\rIXSUAqqnL\tlsdump"
+2023-05-17 02:14:11,060 [lib.common.results] INFO: Uploading file C:\rIXSUAqqnL\tlsdump\tlsdump.log to tlsdump\tlsdump.log; Size is 1096; Max size: 100000000
+2023-05-17 02:14:11,107 [root] INFO: Analysis completed

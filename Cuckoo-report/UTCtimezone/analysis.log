@@ -1,0 +1,18 @@
+2023-05-18 12:26:18,217 [analyzer] DEBUG: Starting analyzer from: C:\tmpwm1aqk
+2023-05-18 12:26:18,217 [analyzer] DEBUG: Pipe server name: \??\PIPE\mjVlNXSAVcGGBBEVrBvduff
+2023-05-18 12:26:18,217 [analyzer] DEBUG: Log pipe server name: \??\PIPE\kaxmJtkHApOLrFrtHPaetSYUgcNuKWsr
+2023-05-18 12:26:18,217 [analyzer] DEBUG: No analysis package specified, trying to detect it automagically.
+2023-05-18 12:26:18,217 [analyzer] INFO: Automatically selected analysis package "exe"
+2023-05-18 12:26:19,062 [analyzer] DEBUG: Started auxiliary module DbgView
+2023-05-18 03:29:17,645 [analyzer] DEBUG: Started auxiliary module Disguise
+2023-05-18 03:29:19,443 [analyzer] DEBUG: Started auxiliary module DumpTLSMasterSecrets
+2023-05-18 03:29:19,520 [analyzer] DEBUG: Started auxiliary module Human
+2023-05-18 03:29:19,568 [analyzer] DEBUG: Started auxiliary module InstallCertificate
+2023-05-18 03:29:19,568 [analyzer] DEBUG: Started auxiliary module Reboot
+2023-05-18 03:29:20,598 [analyzer] DEBUG: Started auxiliary module RecentFiles
+2023-05-18 03:29:20,739 [analyzer] DEBUG: Started auxiliary module Screenshots
+2023-05-18 03:29:20,739 [analyzer] DEBUG: Started auxiliary module LoadZer0m0n
+2023-05-18 03:29:22,989 [lib.api.process] INFO: Successfully executed process from path u'C:\\Users\\cuckoo\\AppData\\Local\\Temp\\UTC_time_zone.exe' with arguments '' and pid 2584
+2023-05-18 03:29:24,020 [analyzer] INFO: Process with pid 2584 has terminated
+2023-05-18 03:29:24,068 [analyzer] INFO: Process list is empty, terminating analysis.
+2023-05-18 03:29:25,145 [analyzer] INFO: Analysis completed.

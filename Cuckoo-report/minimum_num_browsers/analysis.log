@@ -1,0 +1,18 @@
+2023-05-18 12:26:18,155 [analyzer] DEBUG: Starting analyzer from: C:\tmpwm1aqk
+2023-05-18 12:26:18,155 [analyzer] DEBUG: Pipe server name: \??\PIPE\jSUHxogqBmxxuGUWmJOHCZaJKidAQ
+2023-05-18 12:26:18,155 [analyzer] DEBUG: Log pipe server name: \??\PIPE\eZIxhANZGnShHuUeZWM
+2023-05-18 12:26:18,155 [analyzer] DEBUG: No analysis package specified, trying to detect it automagically.
+2023-05-18 12:26:18,155 [analyzer] INFO: Automatically selected analysis package "exe"
+2023-05-18 12:26:18,796 [analyzer] DEBUG: Started auxiliary module DbgView
+2023-05-18 03:33:27,358 [analyzer] DEBUG: Started auxiliary module Disguise
+2023-05-18 03:33:28,858 [analyzer] DEBUG: Started auxiliary module DumpTLSMasterSecrets
+2023-05-18 03:33:28,921 [analyzer] DEBUG: Started auxiliary module Human
+2023-05-18 03:33:28,967 [analyzer] DEBUG: Started auxiliary module InstallCertificate
+2023-05-18 03:33:28,967 [analyzer] DEBUG: Started auxiliary module Reboot
+2023-05-18 03:33:29,296 [analyzer] DEBUG: Started auxiliary module RecentFiles
+2023-05-18 03:33:29,436 [analyzer] DEBUG: Started auxiliary module Screenshots
+2023-05-18 03:33:29,436 [analyzer] DEBUG: Started auxiliary module LoadZer0m0n
+2023-05-18 03:33:31,717 [lib.api.process] INFO: Successfully executed process from path u'C:\\Users\\cuckoo\\AppData\\Local\\Temp\\minimum_num_browsers.exe' with arguments '' and pid 1636
+2023-05-18 03:33:32,749 [analyzer] INFO: Process with pid 1636 has terminated
+2023-05-18 03:33:32,796 [analyzer] INFO: Process list is empty, terminating analysis.
+2023-05-18 03:33:33,858 [analyzer] INFO: Analysis completed.

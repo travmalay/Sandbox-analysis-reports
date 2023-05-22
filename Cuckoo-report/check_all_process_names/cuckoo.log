@@ -1,0 +1,77 @@
+2023-05-18 12:30:25,240 [cuckoo.core.scheduler] INFO: Task #6: acquired machine cuckoo1 (label=cuckoo1)
+2023-05-18 12:30:25,241 [cuckoo.core.resultserver] DEBUG: Now tracking machine 192.168.56.101 for task #6
+2023-05-18 12:30:25,242 [cuckoo.core.plugins] DEBUG: Started auxiliary module: Replay
+2023-05-18 12:30:25,259 [cuckoo.auxiliary.sniffer] INFO: Started sniffer with PID 5060 (interface=vboxnet0, host=192.168.56.101)
+2023-05-18 12:30:25,260 [cuckoo.core.plugins] DEBUG: Started auxiliary module: Sniffer
+2023-05-18 12:30:26,962 [cuckoo.machinery.virtualbox] DEBUG: Starting vm cuckoo1
+2023-05-18 12:30:27,162 [cuckoo.machinery.virtualbox] DEBUG: Restoring virtual machine cuckoo1 to Snapshot 1
+2023-05-18 12:30:30,553 [cuckoo.core.guest] INFO: Starting analysis #6 on guest (id=cuckoo1, ip=192.168.56.101)
+2023-05-18 12:30:31,561 [cuckoo.core.guest] DEBUG: cuckoo1: not ready yet
+2023-05-18 12:30:32,568 [cuckoo.core.guest] DEBUG: cuckoo1: not ready yet
+2023-05-18 12:30:33,577 [cuckoo.core.guest] DEBUG: cuckoo1: not ready yet
+2023-05-18 12:30:34,583 [cuckoo.core.guest] DEBUG: cuckoo1: not ready yet
+2023-05-18 12:30:34,620 [cuckoo.core.guest] INFO: Guest is running Cuckoo Agent 0.10 (id=cuckoo1, ip=192.168.56.101)
+2023-05-18 12:30:34,790 [cuckoo.core.guest] DEBUG: Uploading analyzer to guest (id=cuckoo1, ip=192.168.56.101, monitor=latest, size=3884763)
+2023-05-18 12:30:37,191 [cuckoo.core.resultserver] DEBUG: Task #6: live log analysis.log initialized.
+2023-05-18 12:30:41,749 [cuckoo.core.guest] DEBUG: cuckoo1: analysis #6 still processing
+2023-05-18 12:30:46,936 [cuckoo.core.guest] DEBUG: cuckoo1: analysis #6 still processing
+2023-05-18 12:30:52,169 [cuckoo.core.guest] DEBUG: cuckoo1: analysis #6 still processing
+2023-05-18 12:30:57,234 [cuckoo.core.guest] DEBUG: cuckoo1: analysis #6 still processing
+2023-05-18 12:30:58,264 [cuckoo.core.resultserver] DEBUG: Task #6: File upload for 'shots/0001.jpg'
+2023-05-18 12:30:58,275 [cuckoo.core.resultserver] DEBUG: Task #6 uploaded file length: 63698
+2023-05-18 12:31:01,335 [cuckoo.core.guest] INFO: cuckoo1: analysis completed successfully
+2023-05-18 12:31:01,371 [cuckoo.core.plugins] DEBUG: Stopped auxiliary module: Replay
+2023-05-18 12:31:01,472 [cuckoo.core.plugins] DEBUG: Stopped auxiliary module: Sniffer
+2023-05-18 12:31:11,411 [cuckoo.machinery.virtualbox] INFO: Successfully generated memory dump for virtual machine with label cuckoo1 to path /home/student/.cuckoo/storage/analyses/6/memory.dmp
+2023-05-18 12:31:11,416 [cuckoo.machinery.virtualbox] DEBUG: Stopping vm cuckoo1
+2023-05-18 12:31:12,971 [cuckoo.core.resultserver] DEBUG: Stopped tracking machine 192.168.56.101 for task #6
+2023-05-18 12:31:12,972 [cuckoo.core.resultserver] DEBUG: Cancel <Context for LOG> for task 6
+2023-05-18 12:31:13,018 [cuckoo.core.scheduler] DEBUG: Released database task #6
+2023-05-18 12:31:13,093 [cuckoo.core.plugins] DEBUG: Executed processing module "AnalysisInfo" for task #6
+2023-05-18 12:31:13,095 [cuckoo.processing.behavior] WARNING: Analysis results folder does not contain any behavior log files.
+2023-05-18 12:31:13,096 [cuckoo.core.plugins] DEBUG: Executed processing module "BehaviorAnalysis" for task #6
+2023-05-18 12:31:13,098 [cuckoo.core.plugins] DEBUG: Executed processing module "Dropped" for task #6
+2023-05-18 12:31:13,100 [cuckoo.core.plugins] DEBUG: Executed processing module "DroppedBuffer" for task #6
+2023-05-18 12:31:14,659 [cuckoo.processing.memory] DEBUG: Executing volatility 'pslist' module.
+2023-05-18 12:31:19,131 [cuckoo.processing.memory] DEBUG: Executing volatility 'psxview' module.
+2023-05-18 12:46:22,395 [cuckoo.processing.memory] DEBUG: Executing volatility 'callbacks' module.
+2023-05-18 13:03:48,969 [cuckoo.processing.memory] DEBUG: Executing volatility 'ssdt' module.
+2023-05-18 13:05:43,357 [cuckoo.processing.memory] DEBUG: Skipping 'timers' volatility module
+2023-05-18 13:05:43,359 [cuckoo.processing.memory] DEBUG: Skipping 'messagehooks' volatility module
+2023-05-18 13:05:43,361 [cuckoo.processing.memory] DEBUG: Executing volatility 'getsids' module.
+2023-05-18 13:07:06,358 [cuckoo.processing.memory] DEBUG: Executing volatility 'privs' module.
+2023-05-18 13:08:31,723 [cuckoo.processing.memory] DEBUG: Executing volatility 'malfind' module.
+2023-05-18 13:12:16,015 [cuckoo.processing.memory] DEBUG: Skipping 'apihooks' volatility module
+2023-05-18 13:12:16,017 [cuckoo.processing.memory] DEBUG: Executing volatility 'dlllist' module.
+2023-05-18 13:14:13,697 [cuckoo.processing.memory] DEBUG: Executing volatility 'handles' module.
+2023-05-18 13:31:30,777 [cuckoo.processing.memory] DEBUG: Executing volatility 'ldrmodules' module.
+2023-05-18 13:37:36,421 [cuckoo.processing.memory] DEBUG: Executing volatility 'mutantscan' module.
+2023-05-18 13:45:38,607 [cuckoo.processing.memory] DEBUG: Executing volatility 'devicetree' module.
+2023-05-18 13:51:33,442 [cuckoo.processing.memory] DEBUG: Executing volatility 'svcscan' module.
+2023-05-18 13:52:09,304 [cuckoo.processing.memory] DEBUG: Executing volatility 'modscan' module.
+2023-05-18 13:58:51,178 [cuckoo.processing.memory] DEBUG: Executing volatility 'yarascan' module.
+2023-05-18 14:12:36,134 [cuckoo.processing.memory] DEBUG: Executing volatility 'netscan' module.
+2023-05-18 14:18:13,634 [cuckoo.core.plugins] DEBUG: Executed processing module "Memory" for task #6
+2023-05-18 14:18:13,639 [cuckoo.core.plugins] DEBUG: Executed processing module "MetaInfo" for task #6
+2023-05-18 14:18:13,640 [cuckoo.core.plugins] DEBUG: Executed processing module "ProcessMemory" for task #6
+2023-05-18 14:18:13,642 [cuckoo.core.plugins] DEBUG: Executed processing module "Procmon" for task #6
+2023-05-18 14:18:13,680 [cuckoo.core.plugins] DEBUG: Executed processing module "Screenshots" for task #6
+2023-05-18 14:18:22,184 [cuckoo.core.plugins] DEBUG: Executed processing module "Static" for task #6
+2023-05-18 14:18:22,710 [cuckoo.core.plugins] DEBUG: Executed processing module "Strings" for task #6
+2023-05-18 14:18:22,842 [cuckoo.core.plugins] DEBUG: Executed processing module "TargetInfo" for task #6
+2023-05-18 14:18:23,137 [cuckoo.core.plugins] DEBUG: Executed processing module "NetworkAnalysis" for task #6
+2023-05-18 14:18:23,553 [cuckoo.core.plugins] DEBUG: Executed processing module "VirusTotal" for task #6
+2023-05-18 14:18:23,554 [cuckoo.core.plugins] DEBUG: Executed processing module "Extracted" for task #6
+2023-05-18 14:18:23,557 [cuckoo.core.plugins] DEBUG: Executed processing module "TLSMasterSecrets" for task #6
+2023-05-18 14:18:23,570 [cuckoo.core.plugins] DEBUG: Executed processing module "Debug" for task #6
+2023-05-18 14:18:23,643 [cuckoo.core.plugins] DEBUG: Running 542 signatures
+2023-05-18 14:18:24,652 [cuckoo.core.plugins] DEBUG: Analysis matched signature: volatility_handles_1
+2023-05-18 14:18:24,654 [cuckoo.core.plugins] DEBUG: Analysis matched signature: volatility_ldrmodules_1
+2023-05-18 14:18:24,656 [cuckoo.core.plugins] DEBUG: Analysis matched signature: volatility_malfind_2
+2023-05-18 14:18:24,658 [cuckoo.core.plugins] DEBUG: Analysis matched signature: volatility_modscan_1
+2023-05-18 14:18:24,659 [cuckoo.core.plugins] DEBUG: Analysis matched signature: volatility_svcscan_1
+2023-05-18 14:18:24,660 [cuckoo.core.plugins] DEBUG: Analysis matched signature: volatility_svcscan_3
+2023-05-18 14:18:33,758 [cuckoo.core.plugins] DEBUG: Executed reporting module "JsonDump"
+2023-05-18 14:18:34,103 [cuckoo.core.plugins] DEBUG: Executed reporting module "MongoDB"
+2023-05-18 14:18:34,106 [cuckoo.core.scheduler] INFO: Task #6: reports generation completed
+2023-05-18 14:18:34,140 [cuckoo.core.scheduler] INFO: Task #6: analysis procedure completed

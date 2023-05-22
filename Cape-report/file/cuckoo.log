@@ -1,0 +1,204 @@
+2023-05-17 08:30:16,081 [lib.cuckoo.core.resultserver] DEBUG: Task #54: live log analysis.log initialized
+2023-05-17 08:30:19,219 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file aux/DigiSig.json
+2023-05-17 08:30:19,220 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file aux/DigiSig.json of length: 116
+2023-05-17 08:30:20,730 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0001.jpg
+2023-05-17 08:30:20,754 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0001.jpg of length: 103994
+2023-05-17 08:30:22,546 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file aux/usage.log
+2023-05-17 08:30:22,547 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file aux/usage.log of length: 0
+2023-05-17 08:30:22,994 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0002.jpg
+2023-05-17 08:30:23,032 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0002.jpg of length: 99701
+2023-05-17 08:30:24,181 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0003.jpg
+2023-05-17 08:30:24,189 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0003.jpg of length: 95138
+2023-05-17 08:30:25,265 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0004.jpg
+2023-05-17 08:30:25,271 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0004.jpg of length: 96650
+2023-05-17 08:30:26,343 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0005.jpg
+2023-05-17 08:30:26,352 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0005.jpg of length: 92588
+2023-05-17 08:30:27,437 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0006.jpg
+2023-05-17 08:30:27,445 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0006.jpg of length: 92797
+2023-05-17 08:30:28,718 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0007.jpg
+2023-05-17 08:30:28,725 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0007.jpg of length: 90521
+2023-05-17 08:30:30,011 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0008.jpg
+2023-05-17 08:30:30,016 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0008.jpg of length: 89012
+2023-05-17 08:30:31,166 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0009.jpg
+2023-05-17 08:30:31,178 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0009.jpg of length: 87793
+2023-05-17 08:30:32,463 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0010.jpg
+2023-05-17 08:30:32,471 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0010.jpg of length: 89506
+2023-05-17 08:30:33,624 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0011.jpg
+2023-05-17 08:30:33,632 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0011.jpg of length: 101006
+2023-05-17 08:30:34,891 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0012.jpg
+2023-05-17 08:30:34,899 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0012.jpg of length: 102305
+2023-05-17 08:30:35,984 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0013.jpg
+2023-05-17 08:30:35,990 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0013.jpg of length: 102241
+2023-05-17 08:30:37,093 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0014.jpg
+2023-05-17 08:30:37,099 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0014.jpg of length: 102304
+2023-05-17 08:30:38,219 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0015.jpg
+2023-05-17 08:30:38,231 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0015.jpg of length: 102241
+2023-05-17 08:30:39,359 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0016.jpg
+2023-05-17 08:30:39,366 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0016.jpg of length: 102009
+2023-05-17 08:30:40,468 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0017.jpg
+2023-05-17 08:30:40,477 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0017.jpg of length: 102304
+2023-05-17 08:30:42,797 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0018.jpg
+2023-05-17 08:30:42,804 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0018.jpg of length: 102175
+2023-05-17 08:30:45,015 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0019.jpg
+2023-05-17 08:30:45,040 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0019.jpg of length: 102304
+2023-05-17 08:30:46,152 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0020.jpg
+2023-05-17 08:30:46,180 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0020.jpg of length: 102009
+2023-05-17 08:30:48,456 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0021.jpg
+2023-05-17 08:30:48,470 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0021.jpg of length: 103687
+2023-05-17 08:30:49,578 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0022.jpg
+2023-05-17 08:30:49,584 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0022.jpg of length: 102009
+2023-05-17 08:30:50,703 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0023.jpg
+2023-05-17 08:30:50,709 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0023.jpg of length: 102241
+2023-05-17 08:30:52,959 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0024.jpg
+2023-05-17 08:30:52,970 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0024.jpg of length: 102009
+2023-05-17 08:30:55,250 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0025.jpg
+2023-05-17 08:30:55,262 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0025.jpg of length: 102304
+2023-05-17 08:30:56,406 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0026.jpg
+2023-05-17 08:30:56,409 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0026.jpg of length: 102122
+2023-05-17 08:30:57,531 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0027.jpg
+2023-05-17 08:30:57,535 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0027.jpg of length: 104019
+2023-05-17 08:31:03,374 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0028.jpg
+2023-05-17 08:31:03,409 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0028.jpg of length: 105447
+2023-05-17 08:31:04,531 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0029.jpg
+2023-05-17 08:31:04,539 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0029.jpg of length: 103956
+2023-05-17 08:31:05,843 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0030.jpg
+2023-05-17 08:31:05,864 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0030.jpg of length: 105447
+2023-05-17 08:31:06,968 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0031.jpg
+2023-05-17 08:31:06,974 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0031.jpg of length: 103956
+2023-05-17 08:31:08,086 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0032.jpg
+2023-05-17 08:31:08,117 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0032.jpg of length: 105447
+2023-05-17 08:31:09,219 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0033.jpg
+2023-05-17 08:31:09,250 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0033.jpg of length: 104226
+2023-05-17 08:31:10,468 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0034.jpg
+2023-05-17 08:31:10,530 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0034.jpg of length: 103956
+2023-05-17 08:31:12,781 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0035.jpg
+2023-05-17 08:31:12,789 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0035.jpg of length: 105464
+2023-05-17 08:31:13,859 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0036.jpg
+2023-05-17 08:31:13,866 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0036.jpg of length: 104226
+2023-05-17 08:31:14,984 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0037.jpg
+2023-05-17 08:31:14,991 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0037.jpg of length: 103956
+2023-05-17 08:31:18,483 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0038.jpg
+2023-05-17 08:31:18,524 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0038.jpg of length: 104226
+2023-05-17 08:31:19,656 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0039.jpg
+2023-05-17 08:31:19,677 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0039.jpg of length: 105447
+2023-05-17 08:31:20,781 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0040.jpg
+2023-05-17 08:31:20,822 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0040.jpg of length: 103956
+2023-05-17 08:31:23,140 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0041.jpg
+2023-05-17 08:31:23,144 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0041.jpg of length: 105464
+2023-05-17 08:31:24,281 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0042.jpg
+2023-05-17 08:31:24,286 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0042.jpg of length: 104226
+2023-05-17 08:31:25,390 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0043.jpg
+2023-05-17 08:31:25,409 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0043.jpg of length: 103956
+2023-05-17 08:31:29,734 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0044.jpg
+2023-05-17 08:31:29,745 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0044.jpg of length: 104226
+2023-05-17 08:31:30,828 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0045.jpg
+2023-05-17 08:31:30,835 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0045.jpg of length: 103956
+2023-05-17 08:31:31,921 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0046.jpg
+2023-05-17 08:31:31,955 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0046.jpg of length: 94982
+2023-05-17 08:31:33,185 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0047.jpg
+2023-05-17 08:31:33,190 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0047.jpg of length: 103811
+2023-05-17 08:31:34,296 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0048.jpg
+2023-05-17 08:31:34,302 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0048.jpg of length: 104226
+2023-05-17 08:31:35,437 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0049.jpg
+2023-05-17 08:31:35,443 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0049.jpg of length: 103956
+2023-05-17 08:31:46,731 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0050.jpg
+2023-05-17 08:31:46,741 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0050.jpg of length: 104226
+2023-05-17 08:31:47,921 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0051.jpg
+2023-05-17 08:31:47,929 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0051.jpg of length: 103956
+2023-05-17 08:31:58,812 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0052.jpg
+2023-05-17 08:31:58,818 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0052.jpg of length: 105464
+2023-05-17 08:32:01,015 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0053.jpg
+2023-05-17 08:32:01,021 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0053.jpg of length: 103956
+2023-05-17 08:32:05,281 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0054.jpg
+2023-05-17 08:32:05,287 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0054.jpg of length: 104457
+2023-05-17 08:32:07,437 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0055.jpg
+2023-05-17 08:32:07,444 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0055.jpg of length: 104183
+2023-05-17 08:32:11,781 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0056.jpg
+2023-05-17 08:32:11,786 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0056.jpg of length: 105699
+2023-05-17 08:32:12,874 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0057.jpg
+2023-05-17 08:32:12,903 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0057.jpg of length: 104457
+2023-05-17 08:32:13,968 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0058.jpg
+2023-05-17 08:32:14,018 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0058.jpg of length: 105699
+2023-05-17 08:32:15,171 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0059.jpg
+2023-05-17 08:32:15,176 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0059.jpg of length: 104183
+2023-05-17 08:32:16,437 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0060.jpg
+2023-05-17 08:32:16,441 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0060.jpg of length: 104457
+2023-05-17 08:32:17,609 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0061.jpg
+2023-05-17 08:32:17,614 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0061.jpg of length: 104183
+2023-05-17 08:32:18,781 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0062.jpg
+2023-05-17 08:32:18,810 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0062.jpg of length: 104457
+2023-05-17 08:32:22,093 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0063.jpg
+2023-05-17 08:32:22,098 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0063.jpg of length: 104183
+2023-05-17 08:32:33,468 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0064.jpg
+2023-05-17 08:32:33,476 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0064.jpg of length: 105682
+2023-05-17 08:32:36,765 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0065.jpg
+2023-05-17 08:32:36,796 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0065.jpg of length: 104183
+2023-05-17 08:32:50,223 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0066.jpg
+2023-05-17 08:32:50,231 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0066.jpg of length: 105682
+2023-05-17 08:32:52,640 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0067.jpg
+2023-05-17 08:32:52,665 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0067.jpg of length: 104183
+2023-05-17 08:32:53,906 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0068.jpg
+2023-05-17 08:32:53,956 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0068.jpg of length: 105699
+2023-05-17 08:32:55,187 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0069.jpg
+2023-05-17 08:32:55,224 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0069.jpg of length: 104183
+2023-05-17 08:33:02,468 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0070.jpg
+2023-05-17 08:33:02,491 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0070.jpg of length: 104456
+2023-05-17 08:33:03,720 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0071.jpg
+2023-05-17 08:33:03,736 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0071.jpg of length: 104186
+2023-05-17 08:33:04,999 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0072.jpg
+2023-05-17 08:33:05,015 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0072.jpg of length: 105686
+2023-05-17 08:33:06,249 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0073.jpg
+2023-05-17 08:33:06,254 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0073.jpg of length: 104186
+2023-05-17 08:33:09,843 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0074.jpg
+2023-05-17 08:33:09,857 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0074.jpg of length: 104413
+2023-05-17 08:33:12,203 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0075.jpg
+2023-05-17 08:33:12,215 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0075.jpg of length: 104186
+2023-05-17 08:33:13,453 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0076.jpg
+2023-05-17 08:33:13,459 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0076.jpg of length: 104456
+2023-05-17 08:33:18,031 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0077.jpg
+2023-05-17 08:33:18,037 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0077.jpg of length: 104361
+2023-05-17 08:33:19,140 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0078.jpg
+2023-05-17 08:33:19,190 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0078.jpg of length: 104456
+2023-05-17 08:33:20,359 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0079.jpg
+2023-05-17 08:33:20,385 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0079.jpg of length: 104186
+2023-05-17 08:33:22,813 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0080.jpg
+2023-05-17 08:33:22,819 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0080.jpg of length: 105707
+2023-05-17 08:33:27,740 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0081.jpg
+2023-05-17 08:33:27,783 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0081.jpg of length: 104456
+2023-05-17 08:33:30,484 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0082.jpg
+2023-05-17 08:33:30,491 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0082.jpg of length: 104186
+2023-05-17 08:33:31,687 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0083.jpg
+2023-05-17 08:33:31,692 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0083.jpg of length: 105690
+2023-05-17 08:33:32,874 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0084.jpg
+2023-05-17 08:33:32,881 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0084.jpg of length: 104186
+2023-05-17 08:33:35,327 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0085.jpg
+2023-05-17 08:33:35,339 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0085.jpg of length: 104413
+2023-05-17 08:33:36,671 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0086.jpg
+2023-05-17 08:33:36,678 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0086.jpg of length: 104455
+2023-05-17 08:33:37,921 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0087.jpg
+2023-05-17 08:33:37,926 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0087.jpg of length: 104186
+2023-05-17 08:33:39,096 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0088.jpg
+2023-05-17 08:33:39,101 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0088.jpg of length: 104456
+2023-05-17 08:33:41,554 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0089.jpg
+2023-05-17 08:33:41,615 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0089.jpg of length: 104186
+2023-05-17 08:33:42,854 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0090.jpg
+2023-05-17 08:33:42,885 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0090.jpg of length: 104456
+2023-05-17 08:33:45,390 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0091.jpg
+2023-05-17 08:33:45,393 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0091.jpg of length: 104186
+2023-05-17 08:33:46,625 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0092.jpg
+2023-05-17 08:33:46,631 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0092.jpg of length: 105690
+2023-05-17 08:33:51,515 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0093.jpg
+2023-05-17 08:33:51,535 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0093.jpg of length: 104186
+2023-05-17 08:33:55,218 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0094.jpg
+2023-05-17 08:33:55,223 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0094.jpg of length: 105707
+2023-05-17 08:33:56,421 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0095.jpg
+2023-05-17 08:33:56,430 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0095.jpg of length: 105118
+2023-05-17 08:33:57,000 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file curtain/1684312436.9571252.curtain.log
+2023-05-17 08:33:57,045 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file curtain/1684312436.9571252.curtain.log of length: 36
+2023-05-17 08:33:57,140 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file tlsdump/tlsdump.log
+2023-05-17 08:33:57,157 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file tlsdump/tlsdump.log of length: 548
+2023-05-17 08:33:57,562 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Trying to upload file shots/0096.jpg
+2023-05-17 08:33:57,573 [lib.cuckoo.core.resultserver] DEBUG: Task #54: Uploaded file shots/0096.jpg of length: 114966
+2023-05-17 08:33:57,682 [lib.cuckoo.core.resultserver] DEBUG: Task #54 had connection reset by peer for <Context for None>
+2023-05-17 08:33:57,683 [lib.cuckoo.core.resultserver] DEBUG: Task #54 had connection reset by peer for <Context for None>
+2023-05-17 08:33:57,683 [lib.cuckoo.core.resultserver] DEBUG: Task #54 had connection reset by peer for <Context for b'LOG'>

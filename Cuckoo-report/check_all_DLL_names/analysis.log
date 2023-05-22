@@ -1,0 +1,18 @@
+2023-05-18 12:26:18,140 [analyzer] DEBUG: Starting analyzer from: C:\tmpwm1aqk
+2023-05-18 12:26:18,140 [analyzer] DEBUG: Pipe server name: \??\PIPE\AttFyNHbHLKZQlaJCL
+2023-05-18 12:26:18,140 [analyzer] DEBUG: Log pipe server name: \??\PIPE\jAkLgYqHChlIgDcunq
+2023-05-18 12:26:18,140 [analyzer] DEBUG: No analysis package specified, trying to detect it automagically.
+2023-05-18 12:26:18,140 [analyzer] INFO: Automatically selected analysis package "exe"
+2023-05-18 12:26:19,233 [analyzer] DEBUG: Started auxiliary module DbgView
+2023-05-18 03:32:35,276 [analyzer] DEBUG: Started auxiliary module Disguise
+2023-05-18 03:32:37,105 [analyzer] DEBUG: Started auxiliary module DumpTLSMasterSecrets
+2023-05-18 03:32:37,230 [analyzer] DEBUG: Started auxiliary module Human
+2023-05-18 03:32:37,230 [analyzer] DEBUG: Started auxiliary module InstallCertificate
+2023-05-18 03:32:37,246 [analyzer] DEBUG: Started auxiliary module Reboot
+2023-05-18 03:32:37,635 [analyzer] DEBUG: Started auxiliary module RecentFiles
+2023-05-18 03:32:37,823 [analyzer] DEBUG: Started auxiliary module Screenshots
+2023-05-18 03:32:37,823 [analyzer] DEBUG: Started auxiliary module LoadZer0m0n
+2023-05-18 03:32:40,371 [lib.api.process] INFO: Successfully executed process from path u'C:\\Users\\cuckoo\\AppData\\Local\\Temp\\check_all_DLL_names.exe' with arguments '' and pid 1864
+2023-05-18 03:32:41,635 [analyzer] INFO: Process with pid 1864 has terminated
+2023-05-18 03:32:41,635 [analyzer] INFO: Process list is empty, terminating analysis.
+2023-05-18 03:32:42,698 [analyzer] INFO: Analysis completed.

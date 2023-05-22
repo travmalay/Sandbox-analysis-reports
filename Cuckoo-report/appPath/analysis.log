@@ -1,0 +1,18 @@
+2023-05-18 12:26:17,171 [analyzer] DEBUG: Starting analyzer from: C:\tmpwm1aqk
+2023-05-18 12:26:17,171 [analyzer] DEBUG: Pipe server name: \??\PIPE\BrKwEjNJYavyHzZACZCdrcA
+2023-05-18 12:26:17,171 [analyzer] DEBUG: Log pipe server name: \??\PIPE\DXlSpDhqxgARSfYTR
+2023-05-18 12:26:17,171 [analyzer] DEBUG: No analysis package specified, trying to detect it automagically.
+2023-05-18 12:26:17,171 [analyzer] INFO: Automatically selected analysis package "exe"
+2023-05-18 12:26:18,015 [analyzer] DEBUG: Started auxiliary module DbgView
+2023-05-18 03:26:55,976 [analyzer] DEBUG: Started auxiliary module Disguise
+2023-05-18 03:26:57,648 [analyzer] DEBUG: Started auxiliary module DumpTLSMasterSecrets
+2023-05-18 03:26:57,710 [analyzer] DEBUG: Started auxiliary module Human
+2023-05-18 03:26:57,710 [analyzer] DEBUG: Started auxiliary module InstallCertificate
+2023-05-18 03:26:57,710 [analyzer] DEBUG: Started auxiliary module Reboot
+2023-05-18 03:26:58,085 [analyzer] DEBUG: Started auxiliary module RecentFiles
+2023-05-18 03:26:58,180 [analyzer] DEBUG: Started auxiliary module Screenshots
+2023-05-18 03:26:58,243 [analyzer] DEBUG: Started auxiliary module LoadZer0m0n
+2023-05-18 03:27:00,243 [lib.api.process] INFO: Successfully executed process from path u'C:\\Users\\cuckoo\\AppData\\Local\\Temp\\appPath.exe' with arguments '' and pid 2880
+2023-05-18 03:27:01,273 [analyzer] INFO: Process with pid 2880 has terminated
+2023-05-18 03:27:01,273 [analyzer] INFO: Process list is empty, terminating analysis.
+2023-05-18 03:27:02,289 [analyzer] INFO: Analysis completed.
